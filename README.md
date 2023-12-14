@@ -87,7 +87,7 @@ Frontend: React, Next, socket.io-client, emotion/styled, react-notifications-com
 </table>
 
 
-Сайт размещён на хостинге, в качестве веб-сервера используется nginx, зарегистрирован домен (donatequest.ru) и на него оформлен DomainSSL сертификат.
+Сайт размещён на хостинге, в качестве веб-сервера используется nginx, зарегистрирован домен [donatequest.ru](https://donatequest.ru/Ayoplay) и на него оформлен DomainSSL сертификат.
 Для дополнительной защиты и кеширования сайта используется сервис Cloudflare.
 
 ### Дискорд бот
